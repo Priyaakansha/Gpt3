@@ -21,5 +21,5 @@ const App = () => {
     </div>
   )
 }
-
+//This is the main app page.
 export default App
